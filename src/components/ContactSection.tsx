@@ -89,7 +89,7 @@ const ContactSection = () => {
                 <div>
                   <h4 className="font-semibold text-rootware-800">Office</h4>
                   <p className="text-gray-600">
-                    123 Tech Plaza, Suite 500<br />
+                    7895 Jane St<br />
                     San Francisco, CA 94103
                   </p>
                 </div>
