@@ -9,7 +9,7 @@ const TestimonialsSection = () => {
     {
       name: "David Mitchell",
       role: "CTO, GreenTech Solutions",
-      image: "https://randomuser.me/api/portraits/men/54.jpg",
+      image: "headshots/54.jpg",
       content: "Rootware Data transformed our IT infrastructure completely. Their ServiceNow implementation has streamlined our processes and saved us countless hours. The team was professional, knowledgeable, and responsive throughout the project.",
       rating: 5,
     },
